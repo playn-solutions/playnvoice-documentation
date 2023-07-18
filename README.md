@@ -1,6 +1,7 @@
 # PlaynVoice documentation
 
 This documentation is done with Docsify.
+Note: this file will not be displayed in the live documentation.
 
 
 ## Run documentation locally
