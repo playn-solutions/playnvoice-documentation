@@ -28,9 +28,9 @@ Là, vous avez la possibilité de cliquer sur "EN", "DE" ou "FR", pour changer l
 Info: Depuis ici, vous pouvez également changer le mot de passer qui vous a été attribué à la création de votre compte.
 
 
-## Mettre en ligne votre assistant vocal - Redirection/déviation d'appels
+## Mettre en ligne votre assistant vocal
 
-Pour mettre en ligne votre assistant vocal, il suffit de faire une redirection depuis le téléphone de votre entreprise (ou votre natel).
+Pour mettre en ligne votre assistant vocal, il suffit de faire une redirection  (ou déviation d'appel) depuis le téléphone de votre entreprise (ou votre natel).
 
 Trois types de redirections sont possibles :
 
