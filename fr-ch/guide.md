@@ -26,3 +26,24 @@ Pour changer la langue de l'interface de la plateforme, rendez-vous sur la page 
 Là, vous avez la possibilité de cliquer sur "EN", "DE" ou "FR", pour changer la langue.
 
 Info: Depuis ici, vous pouvez également changer le mot de passer qui vous a été attribué à la création de votre compte.
+
+
+## Mettre en ligne votre assistant vocal - Redirection/déviation d'appels
+
+Pour mettre en ligne votre assistant vocal, il suffit de faire une redirection depuis le téléphone de votre entreprise (ou votre natel).
+
+Trois types de redirections sont possibles :
+
+1) Redirection de tous les appels
+2) Redirection si l'on ne décroche pas dans les 25 secondes
+3) Redirection si la ligne est occupée
+
+Les instructions suivant votre type de ligne (fixe ou mobile) et votre opérateur varie légèrement. Suivez le lien correspondant à votre cas :
+
+- Déviation pour [Swisscom, réseau fixe](https://www.swisscom.ch/fr/clients-prives/aide/reseau-fixe/rester-joignable.html)
+- Déviation pour [Swisscom, réseau mobile](https://www.swisscom.ch/fr/clients-prives/aide/reseau-fixe/rester-joignable.html#tabs-62d994a7f6%5Bselected%5D=tab_1629791926374&tabs-e0d0f148a3%5Bselected%5D=tab_1629791926374)
+- Déviation pour [Sunrise, réseau fixe](https://www.sunrise.ch/fr/support/telephonie-fixe/utiliser-le-reseau-fixe/transferer-des-appels)
+- Déviation pour [Sunrise, réseau mobile](https://www.sunrise.ch/fr/support/mobile/utilisation-et-parametres/parametres-appel), sous "Transferts d'appels"
+- Déviation pour [Salt](https://www.salt.ch/fr/help/home/telephony), cliquer sur "Comment puis-je transférer mes appels ?"
+- Déviation pour [Wingo, réseau mobile](https://www.wingo.ch/fr/mobile-utiliser-reparer/est-il-possible-de-transferer-des-appels-sur-mon-telephone-mobile)
+- Déviation pour [Budget Mobile, réseau mobile](https://shop.m-budget.migros.ch/fr/comment-puis-je-activer-un-renvoi-des-appels-sur-mon-telephone-portable)
